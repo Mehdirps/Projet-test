@@ -1,0 +1,26 @@
+h1{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 2rem;
+    text-align-last: center;
+    color: orange;
+    
+
+
+}
+
+em{
+    text-transform: capitalize;
+    color: lightsalmon;   
+}
+div{
+    background-color: lightblue;
+}
+img{
+    width: 400px;
+    border-radius: 13%;
+    border-style: groove;
+}
+
+
