@@ -5,22 +5,27 @@ h1{
     font-size: 2rem;
     text-align-last: center;
     color: orange;
-    
-
-
 }
 
 em{
     text-transform: capitalize;
-    color: lightsalmon;   
-}
-div{
-    background-color: lightblue;
+    color: rgb(247, 116, 64);   
 }
 img{
     width: 400px;
     border-radius: 13%;
     border-style: groove;
 }
+body{
+    background-image: url(bleu.png);
+}
+section{
+    border-style: solid;
+    border-radius: 30%;
+    border-width: 1cm 1cm;
+    border-left: 5cm;
+    border-right: 5cm;
+}
+img{
 
-
+}
