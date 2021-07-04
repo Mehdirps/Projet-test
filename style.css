@@ -4,7 +4,7 @@ h1{
     letter-spacing: 0.5px;
     font-size: 2rem;
     text-align-last: center;
-    color: orange;
+    color: rgb(255, 0, 0);
 }
 
 em{
@@ -12,20 +12,16 @@ em{
     color: rgb(247, 116, 64);   
 }
 img{
-    width: 400px;
+    width: 600px;
     border-radius: 13%;
     border-style: groove;
 }
-body{
-    background-image: url(bleu.png);
-}
-section{
+div{
     border-style: solid;
-    border-radius: 30%;
-    border-width: 1cm 1cm;
-    border-left: 5cm;
-    border-right: 5cm;
-}
-img{
+    border-radius: 13%;
+    background-color: mediumblue;
 
+}
+body{
+    background-image: url(orage.jpg);
 }
