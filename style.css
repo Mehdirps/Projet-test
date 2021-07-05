@@ -4,7 +4,7 @@ h1{
     letter-spacing: 0.5px;
     font-size: 2rem;
     text-align-last: center;
-    color: rgb(255, 0, 0);
+    color: rgb(187, 62, 62);
 }
 
 em{
@@ -19,9 +19,6 @@ img{
 div{
     border-style: solid;
     border-radius: 13%;
-    background-color: mediumblue;
+    background-color: rgb(55, 55, 148);
 
-}
-body{
-    background-image: url(orage.jpg);
 }
